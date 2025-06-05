@@ -1,11 +1,13 @@
-body {background-color: pink;
+body {background-color: rgb(75, 6, 57);
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: bisque;
 }
 
 footer  {
     background-color: blue
-    color( black)
+    color( rgb(181, 11, 39))
     bottom/0;
     position:fixed;
     width: 100%;
+    
 }
