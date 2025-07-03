@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'series',
+    'como se chama as series de drama feito na asia?',
+    'As séries de drama feitas na asia sao chamadas de doramas. '
 )
 
 criaCartao(
